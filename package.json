@@ -1,4 +1,12 @@
 {
   "name": "@theprincelle/datepick",
-  "version": "0.0.1"
+  "version": "0.0.2",
+  "description": "Little date-picker with a really nice UI",
+  "license": "MIT",
+  "repository": "theprincelle/datepick",
+  "main": "index.js",
+  "keywords": [
+    "datepicker",
+    "npm-package"
+  ]
 }
