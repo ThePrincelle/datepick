@@ -3,10 +3,14 @@
   "version": "0.0.2",
   "description": "Little date-picker with a really nice UI",
   "license": "MIT",
-  "repository": "theprincelle/datepick",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprincelle/datepick.git"
+  },
   "keywords": [
     "datepicker",
     "npm-package"
-  ]
+  ],
+  "author": "Maxime Princelle"
 }
